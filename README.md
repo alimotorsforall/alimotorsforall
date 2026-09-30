@@ -1,16 +1,25 @@
-## Hi there 👋
+# Auto Service Alimotorsforall
 
-<!--
-**alimotorsforall/alimotorsforall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mobile mechanic · Mécanicien mobile — Montréal, QC**
 
-Here are some ideas to get you started:
+Hi, I'm Elie, founder and automotive technician at **Auto Service Alimotorsforall**. We're a 100% mobile auto repair service: we come to your home, workplace, or roadside.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Service area:** Montréal, Laval, Longueuil, Lachine, Saint-Laurent, Châteauguay & the South Shore.
+
+**Services:** mobile diagnostics, maintenance and repairs for cars, plus ATV / powersports service (hubs & bearings, brakes, tires, batteries, basic suspension).
+
+---
+
+**Service Auto Alimotorsforall** : service de mécanique 100 % mobile. On se déplace chez vous, au travail ou sur la route, à Montréal et dans les environs.
+
+---
+
+### Contact
+
+- Website: https://alimobileauto.com
+- Phone: 438-341-2619
+- Email: info@alimobileauto.com
+- Google Business Profile: https://maps.app.goo.gl/rPoBkLN7sk3ZmrYB6
+- Instagram: https://www.instagram.com/auto_service_alimotorsforall/ · Facebook: https://www.facebook.com/alimotorsforall/ · TikTok: https://www.tiktok.com/@alimotorsmobilemechanic
+
+*Emergency roadside service: availability depends on time & location.*
